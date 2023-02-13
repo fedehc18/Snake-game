@@ -1,0 +1,28 @@
+{
+  "name": "draw-axis-p5js",
+  "version": "1.0.0",
+  "description": "package for drawing coordinate axes in p5.js",
+  "main": "draw-axis-p5js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiansire/draw-axis-p5js.git"
+  },
+  "keywords": [
+    "p5js",
+    "p5.js",
+    "draw-axis",
+    "axis",
+    "draw",
+    "processing",
+    "processingJs"
+  ],
+  "author": "Damian Sire <damiansire@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiansire/draw-axis-p5js/issues"
+  },
+  "homepage": "https://github.com/damiansire/draw-axis-p5js#readme"
+}

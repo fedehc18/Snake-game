@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: center;
+
+  color: #93ef1e;
+}
+
+body {
+  background-image: url(snake.jpeg);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
